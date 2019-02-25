@@ -1,2 +1,3 @@
-# weather
-App com ReactJs com objetivo de mostrar informações sobre o clima
+# Twitter Clone
+Repositorio feito com proposito de aprendizado em Reactjs
+
